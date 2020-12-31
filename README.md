@@ -45,6 +45,6 @@ The project consists of two parts: prepocessing including data cleaning, data ex
 
 # Summary
 
-Best results from all of the models used in the project (SVM, LSTM RNN with Word2Vec, LSTM RNN) was achieved by LSTM RNN classifier. Accuracy metric was used to evaluate models as classification risk in project problem is symmetrical.
+Best results from all of the models used in the project (SVM, LSTM RNN with Word2Vec, LSTM RNN) were achieved by LSTM RNN classifier. Accuracy metric was used to evaluate models as classification risk in project problem is symmetrical.
 
 The best model obtained about 90% in the accuracy metric.
