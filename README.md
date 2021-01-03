@@ -9,7 +9,7 @@ The project was developed using python 3.6.9
 
 Following packages were used:
 
-- Tenserflow 2.4.0
+- Tensorflow 2.4.0
 - Pandas 1.0.5
 - Numpy 1.18.5
 - Sklearn 0.22.2.post1
